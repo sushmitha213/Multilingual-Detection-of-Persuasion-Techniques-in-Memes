@@ -1,6 +1,6 @@
 # Multilingual-Detection-of-Persuasion-Techniques-in-Memes
 
-### **NOTE**: This project was developed for SemEval 2024 - Task 4, which can been explored further [here](https://propaganda.math.unipd.it/semeval2024task4/)
+
 
 Memes are one of the most popular type of content used in an online disinformation campaign. They are mostly effective on social media platforms, since there they can easily reach a large number of users. Memes in a disinformation campaign achieve their goal of influencing the users through a number of rhetorical and `psychological techniques`, such as `causal oversimplification, name calling, smear`.
 
